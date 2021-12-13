@@ -1,0 +1,14 @@
+version: '3.1'
+services:
+  postgres:
+    container_name: advent-of-code_pg14
+    image: postgres:14
+    env_file:
+      - database.env
+    volumes:
+      - ../day:/day/
+    ports:
+      - "127.0.0.1:5432:5432"
+
+networks:
+    default:
