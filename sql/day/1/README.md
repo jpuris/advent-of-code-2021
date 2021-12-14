@@ -1,6 +1,6 @@
-# Day 1
+# Advent Of Code 2021 - SQL, Day 1
 
-## Part 1
+## Day 1, Part 1
 
 You're minding your own business on a ship at sea when the overboard alarm goes off! You rush to see if you can help. Apparently, one of the Elves tripped and accidentally sent the sleigh keys flying into the ocean!
 
@@ -50,7 +50,7 @@ In this example, there are 7 measurements that are larger than the previous meas
 
 ***How many measurements are larger than the previous measurement?***
 
-## Part 2
+## Day 1, Part 2
 
 Considering every single measurement isn't as useful as you expected: there's just too much noise in the data.
 

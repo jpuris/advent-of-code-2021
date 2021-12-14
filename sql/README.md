@@ -1,4 +1,4 @@
-# Advent Of Code 2021
+# Advent Of Code 2021 - SQL
 
 ## Bootstrapping a PostgreSQL 14 docker container
 
