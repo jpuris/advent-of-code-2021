@@ -50,12 +50,6 @@ In this example, there are 7 measurements that are larger than the previous meas
 
 ***How many measurements are larger than the previous measurement?***
 
-### Solution
-
-```zsh
-docker exec -it advent-of-code_pg14 psql -U postgres -f /day/1/solution.sql
-```
-
 ## Part 2
 
 Considering every single measurement isn't as useful as you expected: there's just too much noise in the data.
@@ -96,7 +90,9 @@ In this example, there are 5 sums that are larger than the previous sum.
 
 ***Consider sums of a three-measurement sliding window. How many sums are larger than the previous sum?***
 
-### Solution
+## Solution
+
+Solution for both part 1 and part 2
 
 ```zsh
 docker exec -it advent-of-code_pg14 psql -U postgres -f /day/1/solution.sql
