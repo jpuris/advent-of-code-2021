@@ -18,7 +18,7 @@
 1. Run docker compose script
 
     ```plain
-        docker compose up -d
+    docker compose up -d
     ```
 
 ## Cleanup
