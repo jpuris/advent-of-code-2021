@@ -53,7 +53,7 @@ In this example, there are 7 measurements that are larger than the previous meas
 ### Solution
 
 ```zsh
-docker exec -it advent-of-code_pg14 psql -U postgres -f /day/1/p1/solution.sql
+docker exec -it advent-of-code_pg14 psql -U postgres -f /day/1/solution.sql
 ```
 
 ## Part 2
@@ -99,5 +99,5 @@ In this example, there are 5 sums that are larger than the previous sum.
 ### Solution
 
 ```zsh
-docker exec -it advent-of-code_pg14 psql -U postgres -f /day/1/p2/solution.sql
+docker exec -it advent-of-code_pg14 psql -U postgres -f /day/1/solution.sql
 ```
