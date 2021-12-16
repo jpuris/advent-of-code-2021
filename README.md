@@ -3,7 +3,7 @@
 | | [SQL](/sql/) |
 | --- | --- |
 | [Day 1](https://adventofcode.com/2021/day/1) | [✅](/sql/day/1/) |
-| [Day 2](https://adventofcode.com/2021/day/2) | [❌](/sql/day/2/) |
+| [Day 2](https://adventofcode.com/2021/day/2) | [✅](/sql/day/2/) |
 | [Day 3](https://adventofcode.com/2021/day/3) | [❌](/sql/day/3/) |
 | [Day 4](https://adventofcode.com/2021/day/4) | [❌](/sql/day/4/) |
 | [Day 5](https://adventofcode.com/2021/day/5) | [❌](/sql/day/5/) |
