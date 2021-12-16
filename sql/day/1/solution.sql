@@ -19,7 +19,7 @@ WITH map AS (
             )
 
 SELECT
-    COUNT(*) FILTER ( WHERE is_increase ) AS "Answer (part 1)"
+    COUNT(*) FILTER ( WHERE is_increase ) AS "Answer (day 1, part 1)"
 FROM map;
 
 -- PART 2 SOLUTION
@@ -35,5 +35,5 @@ WITH sum_3_days_cte AS (
                   )
 
 SELECT
-    COUNT(*) FILTER ( WHERE is_increase ) AS "Answer (part 2)"
+    COUNT(*) FILTER ( WHERE is_increase ) AS "Answer (day 1, part 2)"
 FROM check_cte;
